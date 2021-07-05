@@ -7,12 +7,13 @@ Image:
 
 ![](Web_scrapping/img_readme/madison_island.JPG)
 
-* Download Chrome driver in next [link](https://chromedriver.chromium.org/) and put in main folder project.
+1. Download Chrome driver in next [link](https://chromedriver.chromium.org/) and put in main folder project.
 
-* Change file `words_search.txt` with words that you want to search in E Commerce.
+2. Change file `words_search.txt` with words that you want to search in E Commerce.
 
-* Run code `web_scrapping.py` .
-* Verify file `jsoon_files/test.json` with results of web scrapping.
+3. Run code `web_scrapping.py` .
+
+4. Verify file `jsoon_files/test.json` with results of web scrapping.
 
 ## Example
 ### txt file
