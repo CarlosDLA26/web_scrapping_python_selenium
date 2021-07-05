@@ -13,7 +13,7 @@ Image:
 
 3. Run code `web_scrapping.py` .
 
-4. Verify file `jsoon_files/test.json` with results of web scrapping.
+4. Verify file `json_files/test.json` with results of web scrapping.
 
 ## Example
 ### txt file
@@ -25,7 +25,7 @@ tie
 pants
 sock
 ```
-When run code, it will generate the next json file in `jsoon_files/test.json`:
+When run code, it will generate the next json file in `json_files/test.json`:
 ```
 {
     "cd": {
