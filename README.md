@@ -5,7 +5,7 @@ The code `web_scrapping.py` perform data extraction (product name and product pr
 
 Image:
 
-![](Web_scrapping\img_readme\madison_island.jpg)
+![](Web_scrapping\img_readme\madison_island.JPG)
 
 * Download Chrome driver in next [link](https://chromedriver.chromium.org/) and put in main folder project.
 
