@@ -5,7 +5,7 @@ The code `web_scrapping.py` perform data extraction (product name and product pr
 
 Image:
 
-![](Web_scrapping/img_readme/madison_island.jpeg)
+![](Web_scrapping\img_readme\madison_island.jpg)
 
 * Download Chrome driver in next [link](https://chromedriver.chromium.org/) and put in main folder project.
 
@@ -16,6 +16,7 @@ Image:
 
 ## Example
 ### txt file
+Put the products that we want to search in `words_search.txt`
 ```
 cd
 pen
@@ -23,7 +24,7 @@ tie
 pants
 sock
 ```
-When run code, it will generate the next json file:
+When run code, it will generate the next json file in `jsoon_files/test.json`:
 ```
 {
     "cd": {
