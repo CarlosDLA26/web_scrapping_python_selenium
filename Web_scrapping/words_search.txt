@@ -1,0 +1,5 @@
+cd
+pen
+tie
+pants
+sock
